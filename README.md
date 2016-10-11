@@ -1,6 +1,6 @@
 # PixWordsHelper
 
-A simple JS application, which is a solver-helper for the android game "PixWords", as a mean of learning Javascript
+A simple JS application, which is a solver-helper for the android game "PixWords", for the sole purpose of learning Javascript
 
 ## Build With
 

@@ -111,7 +111,7 @@ function createLetters() {
         inputbox.type = "text";
         inputbox.size = 1;
         inputbox.maxLength = "1";
-		inputbox.style.minWidth = "40px";
+        inputbox.style.minWidth = "40px";
         inputbox.placeholder = i + 1;
         letters.appendChild(inputbox);
         lettersInputs[i] = inputbox;

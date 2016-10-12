@@ -14,7 +14,7 @@ A simple JS application, which is a solver-helper for the android game "PixWords
 
 ## Authors
 
-* **Nikos Bampamis** - [Nik-Bam](https://github.com/Nik-Bam)
+* **Nikos Bampamis** - [nikbam](https://github.com/nikbam)
 
 ## License
 

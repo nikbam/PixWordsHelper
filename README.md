@@ -2,6 +2,8 @@
 
 A simple JS application, which is a solver-helper for the android game "PixWords", for the sole purpose of learning Javascript
 
+[Demo](https://nikbam.github.io/PixWordsHelper/)
+
 ## Build With
 
 * HTML
